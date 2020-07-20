@@ -1,4 +1,4 @@
-# mvpmake
+# Rick y morty app
 
 A new Flutter project.
 
